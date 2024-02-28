@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "145308801573",
+    "project_id": "literature-ai",
+    "storage_bucket": "literature-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145308801573:android:a0fc7ded7ae730e1e2fdcc",
+        "android_client_info": {
+          "package_name": "com.example.literature_app_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145308801573-fpl2jnmm9adogfcqkgrfpsbkgfeejtp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfY91c2IH-Xy6mHEAEbhWfKfZsXaqbKY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145308801573-fpl2jnmm9adogfcqkgrfpsbkgfeejtp0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145308801573-6cvn88r0smggpekedn6polfoeg68bnih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "literature.ai.appspot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145308801573:android:77477dd015289dfde2fdcc",
+        "android_client_info": {
+          "package_name": "literature.ai.appspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145308801573-fpl2jnmm9adogfcqkgrfpsbkgfeejtp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfY91c2IH-Xy6mHEAEbhWfKfZsXaqbKY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145308801573-fpl2jnmm9adogfcqkgrfpsbkgfeejtp0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145308801573-6cvn88r0smggpekedn6polfoeg68bnih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "literature.ai.appspot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
